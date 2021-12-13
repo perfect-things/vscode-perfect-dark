@@ -2,7 +2,7 @@
     "name": "perfect-dark",
     "displayName": "perfect-dark",
     "description": "A Perfect Dark theme to match MacOS dark mode.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "PerfectThings",
 	"scripts": {
 		"publish": "vsce publish"
@@ -23,7 +23,7 @@
             {
                 "label": "Perfect Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Perfect Dark-color-theme.jsonc"
+                "path": "./themes/perfect-dark.json"
             }
         ]
     }
