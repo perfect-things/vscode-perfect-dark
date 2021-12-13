@@ -3,6 +3,11 @@
     "displayName": "perfect-dark",
     "description": "A Perfect Dark theme to match MacOS dark mode.",
     "version": "0.0.1",
+    "publisher": "PerfectThings",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/perfect-things/vscode-perfect-dark"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
