@@ -2,7 +2,7 @@
     "name": "perfect-dark",
     "displayName": "perfect-dark",
     "description": "A Perfect Dark theme to match MacOS dark mode.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "PerfectThings",
 	"scripts": {
 		"publish": "vsce publish"
@@ -15,6 +15,7 @@
 	"engines": {
         "vscode": "^1.63.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
