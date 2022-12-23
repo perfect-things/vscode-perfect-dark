@@ -7,6 +7,8 @@ A font with ligatures and nice italics is advised.
 [Perfect Dark](https://marketplace.visualstudio.com/items?itemName=PerfectThings.perfect-dark)
 
 
+![](screen.png)
+
 
 ## VSCode Theming - Resources
 - [Theme extension guide](https://code.visualstudio.com/api/extension-guides/color-theme)
