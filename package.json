@@ -2,17 +2,17 @@
     "name": "perfect-dark",
     "displayName": "perfect-dark",
     "description": "A Perfect Dark theme to match MacOS dark mode.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "PerfectThings",
-	"scripts": {
-		"publish": "vsce publish"
-	},
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/perfect-things/vscode-perfect-dark"
     },
-	"license": "GPL-3.0-or-later",
-	"engines": {
+    "license": "GPL-3.0-or-later",
+    "engines": {
         "vscode": "^1.63.0"
     },
     "icon": "icon.png",
@@ -27,5 +27,8 @@
                 "path": "./themes/perfect-dark.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^2.15.0"
     }
 }
