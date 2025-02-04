@@ -11,6 +11,7 @@ A font with ligatures and nice italics is advised.
 
 
 ## VSCode Theming - Resources
+- [Publisher Dashboard](https://marketplace.visualstudio.com/manage/publishers/perfectthings) - publisher dashboard
 - [Theme extension guide](https://code.visualstudio.com/api/extension-guides/color-theme)
 - [Theme color names](https://code.visualstudio.com/api/references/theme-color)
 - [CSS Tricks: Creating a VSCode theme](https://css-tricks.com/creating-a-vs-code-theme/)
